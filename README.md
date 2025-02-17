@@ -1,2 +1,3 @@
 ## Component View
-<img src="https://github.com/user-attachments/assets/471dcbea-01dc-4973-a739-723bac575504" width="300" height="600" />
+https://github.com/user-attachments/assets/bce5517a-8a99-4168-a097-1f6009e7d36a
+
